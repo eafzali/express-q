@@ -124,4 +124,6 @@ module.exports = function(express){
       }, true);
     }
   }
+
+  return express;
 }

@@ -1,6 +1,6 @@
 {
   "name": "express-q",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Supporting Q.js in express.js response functions.",
   "main": "index.js",
   "scripts": {
