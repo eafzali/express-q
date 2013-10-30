@@ -1,0 +1,26 @@
+{
+  "name": "express-q",
+  "version": "0.0.1",
+  "description": "Supporting Q.js in express.js response functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eafzali/express-q.git"
+  },
+  "keywords": [
+    "express",
+    "q"
+  ],
+  "author": "Ehsan Afzali",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eafzali/express-q/issues"
+  },
+  "dependencies": {
+    "sliced": "0.0.5",
+    "q": "~0.9.7"
+  }
+}
